@@ -1,6 +1,6 @@
 ## Oi! Me chamo Alan dos anjos Cabral
 
-- 🔭 Atualmente trabalhando como ajudante de uma empresa
+- 🔭 Atualmente em busca de uma oportunidade de emprego
 - 📘 Estudando Sistemas de informações na fundação santo andré SP
 - 🤖 Aprendendo a programar agora 
 
