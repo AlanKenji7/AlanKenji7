@@ -1,8 +1,9 @@
 ## Oi! Me chamo Alan dos anjos Cabral
 
-- 🔭 Técnico de TI(sitcon,hospital HMU)
-- 📘 Estudando Sistemas de informações na fundação santo andré SP
-- 🤖 Aprendendo a programar 
+🎓 Bacharelado em Sistemas de Informação (FAM - 3º Semestre) 
+💻 Desenvolvedor iniciante em  Python/Flask/Angular/node.js 
+📡 Trabalho com Suporte Nível 1 e 2 em ambientes de alta demanda 
+📫 Contato: alandcabral01@gmail.com
 
 
 
